@@ -17,3 +17,4 @@ while 1:
     y = int(input("row: "))
     print(matrix[x][y])
     print('_'*10)
+            print("riyad")
